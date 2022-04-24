@@ -1,0 +1,7 @@
+.DS_Store  
+._*  
+.cache  
+node_modules/  
+dist/
+build/
+.github
